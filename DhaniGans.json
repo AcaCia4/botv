@@ -1,1 +1,6 @@
-//isi session luh
+//{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "QOZJkuQlsF+LjgIfJQ0tuPajur+1xWmGHg5YkXxDN3g="
